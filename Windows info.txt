@@ -1,0 +1,12 @@
+to see ports open in windows and which processes are associated with each ports
+netstat -n -a -o
+
+-a => Displays all connections and listening ports
+-n => Displays addresses and port numbers in numerical form
+-o => Displays the owning process ID associated with each connection
+-b => Displays the executable involved in creating each connection or listening port.
+
+username-admin12
+pass-Admin123!@12345678
+superuser Password-Admin123
+

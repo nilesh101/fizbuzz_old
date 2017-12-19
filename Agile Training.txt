@@ -1,0 +1,13 @@
+Agile Training
+1.oops
+2.automated testing
+3.continuous integration
+4.pair progamming
+5.test drivan development
+6.
+
+
+code smells
+Duplicate code
+
+
